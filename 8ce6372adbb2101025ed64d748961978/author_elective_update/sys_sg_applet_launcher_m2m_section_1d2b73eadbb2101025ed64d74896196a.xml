@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="DELETE">
+        <applet_launcher display_value="Shopping list">012b73aadbb2101025ed64d74896190d</applet_launcher>
+        <order/>
+        <section display_value="Store">512b73eadbb2101025ed64d74896196a</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-26 12:44:21</sys_created_on>
+        <sys_id>1d2b73eadbb2101025ed64d74896196a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Shopping list" source="x_528436_shopping">8ce6372adbb2101025ed64d748961978</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping list">8ce6372adbb2101025ed64d748961978</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_1d2b73eadbb2101025ed64d74896196a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-26 12:44:21</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Shopping list">8ce6372adbb2101025ed64d748961978</application>
+        <file_path/>
+        <instance_id>fc467d33db9bd7448264f70fbf961943</instance_id>
+        <instance_name>dev66294</instance_name>
+        <name>sys_sg_applet_launcher_m2m_section_1d2b73eadbb2101025ed64d74896196a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section"><sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE"><applet_launcher display_value="Shopping list">012b73aadbb2101025ed64d74896190d</applet_launcher><order/><section display_value="Store">512b73eadbb2101025ed64d74896196a</section><sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-26 12:44:21</sys_created_on><sys_id>1d2b73eadbb2101025ed64d74896196a</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Shopping list" source="x_528436_shopping">8ce6372adbb2101025ed64d748961978</sys_package><sys_policy/><sys_scope display_value="Shopping list">8ce6372adbb2101025ed64d748961978</sys_scope><sys_update_name>sys_sg_applet_launcher_m2m_section_1d2b73eadbb2101025ed64d74896196a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-26 12:44:21</sys_updated_on></sys_sg_applet_launcher_m2m_section></record_update>]]></payload>
+        <payload_hash>-1095418814</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>48e6372adbb2101025ed64d74896197a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-26 12:44:22</sys_created_on>
+        <sys_id>d52b73eadbb2101025ed64d7489619a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1742acc3cf20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-26 12:44:22</sys_updated_on>
+        <type>Applet Launcher Sections</type>
+        <update_guid>512b73ea16b21010f6f0e1ff6fd743a8</update_guid>
+        <update_guid_history>512b73ea16b21010f6f0e1ff6fd743a8:-1095418814</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-26 13:03:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_applet_launcher_m2m_section">sys_sg_applet_launcher_m2m_section</sys_db_object>
+        <sys_id>68dcbc467fec4220bad6730996e3a100</sys_id>
+        <sys_metadata>1d2b73eadbb2101025ed64d74896196a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Shopping list" source="x_528436_shopping">8ce6372adbb2101025ed64d748961978</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Shopping list">8ce6372adbb2101025ed64d748961978</sys_scope>
+        <sys_scope_delete display_value="">12b96b92c320452c9576114cacbfd944</sys_scope_delete>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_1d2b73eadbb2101025ed64d74896196a</sys_update_name>
+        <sys_update_version display_value="sys_sg_applet_launcher_m2m_section_1d2b73eadbb2101025ed64d74896196a">d52b73eadbb2101025ed64d7489619a8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-26 13:03:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
